@@ -194,6 +194,6 @@ If you find this repository helpful or inspiring:
 
 *Made with ❤️ and a lot of ☕ by Riya Bansal*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Riyaban583.TVF)
+
 
 </div>
