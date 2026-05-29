@@ -164,20 +164,6 @@ npm start
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🐙 GitHub | [github.com/Riyaban583](https://github.com/Riyaban583) |
-| 💼 LinkedIn | [Add your LinkedIn URL here](https://linkedin.com) |
-| 📧 Email | Add your email here |
-
-</div>
-
----
-
 ## ⭐ Support This Journey
 
 If you find this repository helpful or inspiring:
