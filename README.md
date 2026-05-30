@@ -1,13 +1,15 @@
 <div align="center">
 
-# 🚀 TVF Full Stack Developer Journey
+# 🚀 Full Stack Development Internship
 
-**A living repository of code, growth, and real-world engineering — by Riya Bansal**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern;MERN+%2B+Firebase+Enthusiast;Building+Real-World+Projects+Daily" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Riyaban583-181717?style=flat-square&logo=github)](https://github.com/Riyaban583)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Status](https://img.shields.io/badge/Status-Actively%20Learning-22c55e?style=flat-square)](#)
-[![Last Updated](https://img.shields.io/badge/Updated-Daily-f97316?style=flat-square)](#)
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Active%20Internship-brightgreen?style=for-the-badge&logo=statuspage)
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-6366F1?style=for-the-badge&logo=developer)
+![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20Firebase-orange?style=for-the-badge&logo=stackshare)
+![Location](https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-blue?style=for-the-badge&logo=googlemaps)
 
 </div>
 
@@ -15,697 +17,174 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Riya Bansal** — a passionate Full Stack Developer in the making.
+Hi! I'm **Riya Bansal**, a Full Stack Developer Intern at **True Value Infotech**, Jaipur. This repository is a living record of my internship journey — tracking daily tasks, projects, and growth as I build real-world applications using the **MERN stack** and **Firebase**.
 
-I'm enrolled in the **TVF Full Stack Development Program**, where I build real-world applications, tackle daily challenges, and develop production-grade skills across the entire web stack — from pixel-perfect UIs to cloud-deployed backends.
-
-This repository is my **public engineering journal**: every task, every bug, every breakthrough — documented and version-controlled.
+Every folder here represents a day of learning, experimenting, and shipping code.
 
 ---
 
-## 🎯 What This Repository Is About
+## 🪪 Intern Profile
 
-| Goal | How It's Reflected Here |
-|------|------------------------|
-| 🧱 Master Full Stack concepts | Structured tasks from HTML basics to cloud deployment |
-| 🏗️ Build real-world projects | Full-stack apps with auth, databases, and APIs |
-| ⚙️ Learn industry workflows | Git branching, PR practices, commit conventions |
-| 🧠 Improve problem-solving | Daily coding challenges and debugging logs |
-| 📦 Work with modern tooling | React, Firebase, Node.js, MongoDB, Express |
-| 📈 Track progress over time | Daily commits with descriptive messages |
+| Field | Details |
+|---|---|
+| 👤 Name | Riya Bansal |
+| 🏢 Company | True Value Infotech |
+| 🎯 Role | Full Stack Developer Intern |
+| 📍 Location | Jaipur, Rajasthan |
+| 💻 Stack | MERN + Firebase |
+| 🔗 GitHub | [@Riyaban583](https://github.com/Riyaban583) |
+| 💼 LinkedIn | *(Add your LinkedIn URL)* |
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### Authentication & Cloud
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Repository Structure
-
-```
-TVF/
-│
-├── 📁 Task-01/          # HTML & CSS fundamentals
-├── 📁 Task-02/          # JavaScript ES6+ concepts
-├── 📁 Task-03/          # React.js components & hooks
-├── 📁 Task-04/          # Firebase integration
-├── 📁 Task-05/          # REST API with Node + Express
-│
-├── 📁 Projects/
-│   ├── 📁 Frontend/     # UI-focused mini projects
-│   ├── 📁 Backend/      # API & server-side projects
-│   └── 📁 FullStack/    # End-to-end full stack apps
-│
-├── 📁 Notes/            # Concepts, cheat sheets, references
-├── 📁 Resources/        # Useful links, tools, guides
-└── 📄 README.md
-```
-
----
-
-## 📅 Daily Progress Log
-
-This repository is updated **daily** with:
-
-- ✅ Assigned tasks from the TVF program
-- 🧩 Coding challenges and algorithm practice
-- 🔨 Mini-project builds
-- 🔥 Firebase implementations (Auth, Firestore, Functions)
-- 🌐 REST API development and integration
-- 🗄️ Database design and CRUD operations
-- 🔐 Authentication systems (Firebase Auth, JWT)
-- ☁️ Cloud deployment exercises
-- 📓 Learning notes and concept breakdowns
-
----
-
-## 🌟 Current Focus Areas
-
-```
-React.js          ████████████░░░░  75%
-Firebase          ██████████░░░░░░  62%
-Node.js/Express   ████████░░░░░░░░  50%
-MongoDB           ███████░░░░░░░░░  45%
-REST APIs         █████████░░░░░░░  55%
-Authentication    ████████████░░░░  73%
-Deployment        ████░░░░░░░░░░░░  25%
-```
-
----
-
-## 🏆 Milestones
-
-- [x] Completed HTML5 & CSS3 fundamentals
-- [x] Built responsive layouts with Bootstrap
-- [x] Mastered JavaScript ES6+ features
-- [x] Created React components with hooks
-- [x] Integrated Firebase Authentication
-- [x] Performed Firestore CRUD operations
-- [ ] Built complete REST API with Express
-- [ ] Deployed full-stack app to Firebase Hosting
-- [ ] Implemented JWT-based auth system
-- [ ] Completed capstone full-stack project
-
----
-
-## 📌 Featured Projects
-
-> Projects will be updated as they are completed.
-
-| # | Project | Tech Stack | Status |
-|---|---------|-----------|--------|
-| 1 | Firebase Auth App | React + Firebase Auth | ✅ Completed |
-| 2 | Firestore CRUD App | React + Firestore | ✅ Completed |
-| 3 | REST API Server | Node.js + Express + MongoDB | 🔄 In Progress |
-| 4 | Full Stack App | React + Node + MongoDB + JWT | 📅 Upcoming |
-
----
-
-## 📖 How to Explore This Repo
-
-```bash
-# Clone the repository
-git clone https://github.com/Riyaban583/TVF.git
-
-# Navigate to a specific task
-cd TVF/Task-01
-
-# Install dependencies (if any)
-npm install
-
-# Run the project
-npm start
-```
-
----
-
-## ⭐ Support This Journey
-
-If you find this repository helpful or inspiring:
-
-- 🌟 **Star** the repository
-- 🍴 **Fork** it to start your own learning journal# 🚀 Full Stack Development Portfolio
-
-<div align="center">
-
-## Riya Bansal
-
-### Full Stack Developer Trainee @ True Value Infosoft Pvt. Ltd., Jaipur
-
-Building modern web applications using React, Firebase, Node.js, Express, and MongoDB.
-
-![Status](https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-orange?style=for-the-badge)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 📅 Daily Progress Tracker
 
-Hello! I'm **Riya Bansal**, a passionate Full Stack Developer focused on building responsive, scalable, and user-friendly web applications.
+| Day | Task | Topics Covered | Status |
+|-----|------|----------------|--------|
+| Day 1 | Git & GitHub Setup | Repos, commits, branching, `.gitignore` | ✅ Completed |
+| Day 2 | React Fundamentals | Components, props, JSX, `useState` | ✅ Completed |
+| Day 3 | Firebase Authentication | Email/password auth, Google sign-in | ✅ Completed |
+| Day 4 | Firestore CRUD | Create, Read, Update, Delete with Firestore | ✅ Completed |
+| Day 5 | Notes Application | Full CRUD app with React + Firestore | ✅ Completed |
+| Day 6 | Firebase Functions | Cloud Functions, Firestore triggers | 🔄 In Progress |
 
-Currently, I am undergoing professional training at **True Value Infosoft Pvt. Ltd., Jaipur, Rajasthan**, where I work on real-world projects involving frontend development, backend systems, cloud technologies, databases, and modern development workflows.
-
-This repository serves as my development portfolio, showcasing projects, technical implementations, and practical learning experiences throughout my Full Stack Development journey.
-
----
-
-# 💼 Professional Experience
-
-## Full Stack Developer Trainee
-
-### True Value Infosoft Pvt. Ltd.
-
-📍 Jaipur, Rajasthan
-
-### Responsibilities
-
-* Building responsive web applications using React.js.
-* Developing backend services using Node.js and Express.js.
-* Working with Firebase Authentication and Firestore Database.
-* Implementing Firebase Analytics and Remote Config.
-* Integrating REST APIs.
-* Managing databases and CRUD operations.
-* Following Git and GitHub best practices.
-* Debugging and optimizing applications.
-* Learning industry-standard development workflows.
+> 📌 Updated regularly throughout the internship.
 
 ---
 
-# 🛠️ Technical Skills
-
-## Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Bootstrap
-* Responsive Web Design
-
-## Backend Development
-
-* Node.js
-* Express.js
-* REST API Development
-* Authentication & Authorization
-
-## Database Technologies
-
-* MongoDB
-* Firebase Firestore
-
-## Firebase Services
-
-* Firebase Authentication
-* Firestore Database
-* Firebase Analytics
-* Firebase Remote Config
-* Firebase Hosting
-
-## Development Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Chrome DevTools
-
----
-
-# 🚀 Featured Projects
-
-## Firebase Analytics & Remote Config Dashboard
-
-### Features
-
-* Event Tracking
-* User Analytics
-* User Properties
-* User Identification
-* Feature Flags
-* Dynamic UI Updates
-
-### Technologies
-
-* React.js
-* Firebase Analytics
-* Firebase Remote Config
-
----
-
-## Firebase Authentication System
-
-### Features
-
-* User Registration
-* User Login
-* Secure Authentication
-* Protected Routes
-
-### Technologies
-
-* React.js
-* Firebase Authentication
-
----
-
-## Firestore CRUD Application
-
-### Features
-
-* Create Records
-* Read Records
-* Update Records
-* Delete Records
-* Real-Time Database Operations
-
-### Technologies
-
-* React.js
-* Firebase Firestore
-
----
-
-## Full Stack Web Applications
-
-### Features
-
-* Frontend Development
-* Backend API Development
-* Database Integration
-* Authentication Systems
-
-### Technologies
-
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-
----
-
-# 📈 Areas of Expertise
-
-✅ Frontend Development
-
-✅ Backend Development
-
-✅ REST API Integration
-
-✅ Firebase Services
-
-✅ Database Management
-
-✅ Authentication Systems
-
-✅ Responsive Design
-
-✅ Version Control
-
-✅ Problem Solving
-
-✅ Debugging
-
----
-
-# 📚 Current Learning Focus
-
-* Advanced React Concepts
-* Firebase Ecosystem
-* Node.js Architecture
-* MongoDB Optimization
-* Docker Fundamentals
-* Cloud Deployment
-* System Design Fundamentals
-
----
-
-# 🏆 Achievements
-
-* Developed multiple React-based applications.
-* Integrated Firebase Authentication and Firestore.
-* Implemented Firebase Analytics and Remote Config.
-* Built REST APIs using Node.js and Express.js.
-* Worked with modern Git and GitHub workflows.
-* Gained practical exposure to full-stack development.
-
----
-
-# 📂 Repository Structure
+## 🏗️ Repository Structure
 
 ```text
-Project/
+TVI-Tasks/
 │
-├── Frontend/
-│   ├── React Projects
-│   ├── UI Components
-│   └── Responsive Designs
+├── Day-01/          # Git & GitHub Setup
+├── Day-02/          # React Fundamentals
+├── Day-03/          # Firebase Authentication
+├── Day-04/          # Firestore CRUD Operations
+├── Day-05/          # Notes Application
+├── Day-06/          # Firebase Functions (In Progress)
 │
-├── Backend/
-│   ├── Node.js APIs
-│   ├── Express Applications
-│   └── Authentication Systems
+├── Projects/
+│   ├── Frontend/    # Standalone UI projects
+│   ├── Backend/     # API & server-side projects
+│   └── FullStack/   # End-to-end full stack apps
 │
-├── Firebase/
-│   ├── Authentication
-│   ├── Firestore
-│   ├── Analytics
-│   └── Remote Config
-│
-└── FullStack/
-    ├── End-to-End Applications
-    └── Production Projects
+├── Resources/       # Notes, references & learning material
+└── README.md
 ```
 
 ---
 
-# 🔗 Connect With Me
+## 🏆 Skills Gained
 
-### GitHub
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
 
-https://github.com/Riyaban583
+- Building reusable React components
+- Managing state with `useState` and `useEffect`
+- React Router for SPA navigation
+- Responsive layout design with CSS3
+- Component-driven architecture
 
-### LinkedIn
+</details>
 
-Add Your LinkedIn Profile Here
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
 
-### Email
+- RESTful API design with Express.js
+- Middleware & route handling
+- JWT-based authentication
+- Managing environment variables securely
 
-Add Your Professional Email Here
+</details>
+
+<details>
+<summary><b>🗄️ Database & Cloud</b></summary>
+
+- MongoDB CRUD with Mongoose
+- Firebase Authentication (Email + Google)
+- Firestore real-time database
+- Firebase Cloud Functions & triggers
+
+</details>
+
+<details>
+<summary><b>🔧 Development Workflow</b></summary>
+
+- Git branching & commit best practices
+- GitHub collaboration & pull requests
+- Project structuring & code organization
+- Debugging, testing with Postman
+
+</details>
 
 ---
 
-<div align="center"># 🚀 Full Stack Development Portfolio
+## 🎯 Current Focus
+
+- 🔥 Firebase Cloud Functions
+- 📡 Firestore triggers & scheduled jobs
+- 🌐 Full MERN stack project from scratch
+- 🚀 Deployment on Vercel / Firebase Hosting
+
+---
+
+## 📈 Future Goals
+
+- [ ] Build and deploy an enterprise-grade full stack app
+- [ ] Learn Docker & containerization basics
+- [ ] Understand system design fundamentals
+- [ ] Implement CI/CD pipelines with GitHub Actions
+- [ ] Explore cloud platforms (AWS / GCP)
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-## Riya Bansal
-
-### Full Stack Developer Trainee @ True Value Infosoft Pvt. Ltd., Jaipur
-
-Building modern web applications using React, Firebase, Node.js, Express, and MongoDB.
-
-![Status](https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-orange?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-Riyaban583-181717?style=for-the-badge&logo=github)](https://github.com/Riyaban583)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
-
-Hello! I'm **Riya Bansal**, a passionate Full Stack Developer focused on building responsive, scalable, and user-friendly web applications.
-
-Currently, I am undergoing professional training at **True Value Infosoft Pvt. Ltd., Jaipur, Rajasthan**, where I work on real-world projects involving frontend development, backend systems, cloud technologies, databases, and modern development workflows.
-
-This repository serves as my development portfolio, showcasing projects, technical implementations, and practical learning experiences throughout my Full Stack Development journey.
-
----
-
-# 💼 Professional Experience
-
-## Full Stack Developer Trainee
-
-### True Value Infosoft Pvt. Ltd.
-
-📍 Jaipur, Rajasthan
-
-### Responsibilities
-
-* Building responsive web applications using React.js.
-* Developing backend services using Node.js and Express.js.
-* Working with Firebase Authentication and Firestore Database.
-* Implementing Firebase Analytics and Remote Config.
-* Integrating REST APIs.
-* Managing databases and CRUD operations.
-* Following Git and GitHub best practices.
-* Debugging and optimizing applications.
-* Learning industry-standard development workflows.
-
----
-
-# 🛠️ Technical Skills
-
-## Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Bootstrap
-* Responsive Web Design
-
-## Backend Development
-
-* Node.js
-* Express.js
-* REST API Development
-* Authentication & Authorization
-
-## Database Technologies
-
-* MongoDB
-* Firebase Firestore
-
-## Firebase Services
-
-* Firebase Authentication
-* Firestore Database
-* Firebase Analytics
-* Firebase Remote Config
-* Firebase Hosting
-
-## Development Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Chrome DevTools
-
----
-
-# 🚀 Featured Projects
-
-## Firebase Analytics & Remote Config Dashboard
-
-### Features
-
-* Event Tracking
-* User Analytics
-* User Properties
-* User Identification
-* Feature Flags
-* Dynamic UI Updates
-
-### Technologies
-
-* React.js
-* Firebase Analytics
-* Firebase Remote Config
-
----
-
-## Firebase Authentication System
-
-### Features
-
-* User Registration
-* User Login
-* Secure Authentication
-* Protected Routes
-
-### Technologies
-
-* React.js
-* Firebase Authentication
-
----
-
-## Firestore CRUD Application
-
-### Features
-
-* Create Records
-* Read Records
-* Update Records
-* Delete Records
-* Real-Time Database Operations
-
-### Technologies
-
-* React.js
-* Firebase Firestore
-
----
-
-## Full Stack Web Applications
-
-### Features
-
-* Frontend Development
-* Backend API Development
-* Database Integration
-* Authentication Systems
-
-### Technologies
-
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-
----
-
-# 📈 Areas of Expertise
-
-✅ Frontend Development
-
-✅ Backend Development
-
-✅ REST API Integration
-
-✅ Firebase Services
-
-✅ Database Management
-
-✅ Authentication Systems
-
-✅ Responsive Design
-
-✅ Version Control
-
-✅ Problem Solving
-
-✅ Debugging
-
----
-
-# 📚 Current Learning Focus
-
-* Advanced React Concepts
-* Firebase Ecosystem
-* Node.js Architecture
-* MongoDB Optimization
-* Docker Fundamentals
-* Cloud Deployment
-* System Design Fundamentals
-
----
-
-# 🏆 Achievements
-
-* Developed multiple React-based applications.
-* Integrated Firebase Authentication and Firestore.
-* Implemented Firebase Analytics and Remote Config.
-* Built REST APIs using Node.js and Express.js.
-* Worked with modern Git and GitHub workflows.
-* Gained practical exposure to full-stack development.
-
----
-
-# 📂 Repository Structure
-
-```text
-Project/
-│
-├── Frontend/
-│   ├── React Projects
-│   ├── UI Components
-│   └── Responsive Designs
-│
-├── Backend/
-│   ├── Node.js APIs
-│   ├── Express Applications
-│   └── Authentication Systems
-│
-├── Firebase/
-│   ├── Authentication
-│   ├── Firestore
-│   ├── Analytics
-│   └── Remote Config
-│
-└── FullStack/
-    ├── End-to-End Applications
-    └── Production Projects
-```
-
----
-
-# 🔗 Connect With Me
-
-### GitHub
-
-https://github.com/Riyaban583
-
-### LinkedIn
-
-Add Your LinkedIn Profile Here
-
-### Email
-
-Add Your Professional Email Here
-
----
-
 <div align="center">
 
-### Thank you for visiting my repository!
+### ⭐ Consistent Learning &nbsp;•&nbsp; Daily Progress &nbsp;•&nbsp; Real Projects
 
-I am continuously learning, building, and improving my skills through practical development and real-world projects.
+*Made with ❤️ by **Riya Bansal***
 
-⭐ If you find this repository useful, consider giving it a star.
-
-</div>
-
-
-### Thank you for visiting my repository!
-
-I am continuously learning, building, and improving my skills through practical development and real-world projects.
-
-⭐ If you find this repository useful, consider giving it a star.
-
-</div>
-
-- 👀 **Watch** for daily updates
-
----
-
-<div align="center">
-
-**This repository is actively maintained and updated with new tasks, projects, and learning milestones.**
-
-*Made with ❤️ and a lot of ☕ by Riya Bansal*
-
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Riyaban583.TVI-Tasks)
 
 </div>
